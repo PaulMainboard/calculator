@@ -4,6 +4,6 @@ public class Calculator {
 	}
 	
 	public double addtion(double a, double b) {
-		return b + a;
+		return a + b;
 	}
 }
