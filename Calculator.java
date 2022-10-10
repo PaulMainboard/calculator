@@ -6,8 +6,4 @@ public class Calculator {
 	public double addtion(double a, double b) {
 		return b + a;
 	}
-	
-	public double addition(double a, double b) {
-		return a + b;
-	}
 }
