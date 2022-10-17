@@ -26,4 +26,12 @@ public class Calculator {
 	public double divide(double a, double b) {
 		return a / b;
 	}
+
+	public int remainder(int a, int b) {
+		return a % b;
+	}
+
+	public double remainder(double a, double b) {
+		return a % b;
+	}
 }
